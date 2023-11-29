@@ -38,3 +38,28 @@ h4 {
     align-items: center;
     justify-content: center; 
   }
+  /* footer styling */
+  .proficiency {
+    /* display: inline-block; */
+    font-size: medium;
+  }
+  .proficiency-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .proficiency-list li {
+    width: 15%;
+    text-align: center;
+  }
+  .content-resume {
+    text-align: center;
+    font-size: x-large;
+  }
+  .resume-view {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+  }

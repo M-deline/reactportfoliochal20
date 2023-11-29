@@ -8,35 +8,35 @@ function Resume() {
   return (
     <div className="columns">
       <div className="column">
-        <p className="content is-medium">My Resume</p>
-        <hr />
+        {/* <h4>My Resume</h4>
+        <hr /> */}
 
         <a
           className="button is-primary"
           href={"placeholder"} // link to resume}
           target="_blank" rel="noreferrer"
         >
-          <h4>View My Resume</h4>
+          <h4 className="resume-view">Click Here to View My Resume</h4>
         </a>
       </div>
       <div className="column">
-        <p className="content is-medium">Proficiencies</p>
+        <p className="content-resume">Proficiencies</p>
         <hr />
-        <ul>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>JavaScript</li>
-            <li>jQuery</li>
-            <li>Node</li>
-            <li>Express</li>
-            <li>React</li>
-            <li>MySQL</li>
-            <li>MongoDB</li>
-            <li>Sequelize</li>
-            <li>MVC</li>
-            <li>APIs</li>
-            <li>Git</li>
-            <li>GitHub</li>
+        <ul className="proficiency-list">
+            <li className="proficiency">HTML</li>
+            <li className="proficiency">CSS</li>
+            <li className="proficiency">JavaScript</li>
+            <li className="proficiency">jQuery</li>
+            <li className="proficiency">Node</li>
+            <li className="proficiency">Express</li>
+            <li className="proficiency">React</li>
+            <li className="proficiency">MySQL</li>
+            <li className="proficiency">MongoDB</li>
+            <li className="proficiency">Sequelize</li>
+            <li className="proficiency">MVC</li>
+            <li className="proficiency">APIs</li>
+            <li className="proficiency">Git</li>
+            <li className="proficiency">GitHub</li>
 
         </ul>
       </div>

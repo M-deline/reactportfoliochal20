@@ -6,8 +6,12 @@ import React from "react";
 function Footer() {
   return (
     <footer className="footer">
-      <div className="content has-text-centered">
-        <div>
+      <div className="content">
+        <div className="footer-wrap">
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
           <strong>Portfolio</strong>
           <div>
           <hr />

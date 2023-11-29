@@ -13,7 +13,7 @@ function Nav(props) {
           
           <li
             className={
-              props.currentPage === tab ? "navli" : "nav-item"
+              props.currentPage === tab ? "navlink" : "nav-item"
             } 
             key={tab}
           > 

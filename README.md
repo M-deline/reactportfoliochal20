@@ -22,6 +22,8 @@
 - View the application in your browser
 ## Credits
 - Cruz, Jason. “How to Solve Opensslerrorstack: [ ‘error:03000086:Digital Envelope Routines::Initialization Error’ ] Error ?” DEV Community, DEV Community, 23 Feb. 2022, dev.to/jasoncruzdev/how-to-solve-opensslerrorstack-error03000086digital-envelope-routinesinitialization-error-error--2jd7. 
+- Hover Effects Overview - Codepen, codepen.io/t_afif/pen/poawLeQ. Accessed 29 Nov. 2023. 
 - Formspree, formspree.io/forms/xwkddnnv/integration. Accessed 28 Nov. 2023. 
+- koblizeek. “Placeholder Images – Browse 84,544 Stock Photos, Vectors, and Video.” Adobe Stock, stock.adobe.com/search?k=placeholder&amp;asset_id=248426448. Accessed 29 Nov. 2023. 
 - Previous Modules from Unversity of Denver Bootcamp
 - “Raleway.” Google Fonts, Google, fonts.google.com/specimen/Raleway. Accessed 28 Nov. 2023. 

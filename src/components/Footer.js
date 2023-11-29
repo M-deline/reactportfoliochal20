@@ -1,6 +1,3 @@
-// WHEN I view the footer
-// THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) 
-
 import React from "react";
 
 function Footer() {
@@ -26,8 +23,8 @@ function Footer() {
             LinkedIn
           </a>{" "}
           |{" "}{" "}
-          <a href="placeholder" target="_blank" rel="noreferrer">
-            PlaceHolder
+          <a href="https://stackoverflow.com/users/23009808/madeline-kovanda" target="_blank" rel="noreferrer">
+            StackOverflow
           </a>
       </div>
         </div>

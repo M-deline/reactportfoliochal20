@@ -1,5 +1,3 @@
-// WHEN I view the header
-// THEN I am presented with the developer's name and Nav with titles corresponding to different sections of the portfolio
 import React, { useState } from 'react';
 import Nav from "./Nav";
 import About from "./About";

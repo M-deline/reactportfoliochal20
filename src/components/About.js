@@ -1,10 +1,4 @@
-// THEN the About Me title and section are selected by default
-// WHEN I am presented with the About Me section
-// THEN I see a recent photo or avatar of the developer and a short bio about them
-// Recent Photo or Avatar
-// Short Biography
 import React from "react";
-// import placeholder from '../images/placeholder.jpeg';
 function About() {
   return (
     <div>

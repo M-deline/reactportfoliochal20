@@ -178,3 +178,9 @@ margin-right: 150px;
 .navbar-item {
   text-decoration:deeppink;
 }
+
+/* nav highlight */
+
+.active-link {
+  color: blue; 
+}

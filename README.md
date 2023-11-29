@@ -21,5 +21,7 @@
 - Run `npm start` to start the application
 - View the application in your browser
 ## Credits
+- Cruz, Jason. “How to Solve Opensslerrorstack: [ ‘error:03000086:Digital Envelope Routines::Initialization Error’ ] Error ?” DEV Community, DEV Community, 23 Feb. 2022, dev.to/jasoncruzdev/how-to-solve-opensslerrorstack-error03000086digital-envelope-routinesinitialization-error-error--2jd7. 
 - Formspree, formspree.io/forms/xwkddnnv/integration. Accessed 28 Nov. 2023. 
 - Previous Modules from Unversity of Denver Bootcamp
+- “Raleway.” Google Fonts, Google, fonts.google.com/specimen/Raleway. Accessed 28 Nov. 2023. 

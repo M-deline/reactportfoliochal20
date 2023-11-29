@@ -1,0 +1,19 @@
+* {
+    font-family: 'Raleway', sans-serif;
+}
+/* for header to be in the center */
+span {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.header-name {
+    font-weight: bold;
+    font-size: x-large;
+}
+
+ul {
+  list-style: none;
+    text-align: center;
+}

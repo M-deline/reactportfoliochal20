@@ -12,10 +12,10 @@ function About() {
       <hr />
       <img className="my-pic" src={process.env.PUBLIC_URL + '/img/profile.jpg'} alt=""/>
       <p className="content is-italic mt-4">
-       I am Madeline and I am studying full stack web development in order to become a full time developer.
+       I am Madeline and I am studying full stack web development in order to become a full time developer. I am almost finished with the FullStack Developer BootCamp from University of Denver. 
       </p>
       <p className="content">
-        idk something about me
+        Outside of the bootcamp, I love to practice coding for personal apps and connect wiht other people to practice Spanish. I love to read and go on hikes all over Colorado. 
       </p>
     </div>
   );

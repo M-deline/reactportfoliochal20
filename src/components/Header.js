@@ -19,7 +19,6 @@ function Header() {
         return <Contact />;
       case "Resume":
         return <Resume />;
-// must have default be about 
       default:
         return <About />;
     }
@@ -35,16 +34,14 @@ function Header() {
             target="_blank"
             href="https://github.com/M-deline"
           >
-            <span className="content is-large">Madeline Kovanda</span>
+            <span className="header-name">Madeline Kovanda</span>
           </a>
         </div>
       </nav>
-      {/* {renderPage(currentPage)} */}
       <Nav
         currentPage={currentPage}
         handlePageChange={handlePageChange}
       />
-      {/* pass in currentPage */}
       <main>
         <div>{renderPage(currentPage)}</div>
       </main>

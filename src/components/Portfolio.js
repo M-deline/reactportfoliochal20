@@ -62,6 +62,8 @@ function Portfolio() {
           <p className="proj-desc">{project.description}</p>
           <a href={project.repo} target="_blank" rel="noreferrer">
             <p className="proj-desc">View My Repo</p>
+            <br></br>
+            <br></br>
           </a>
         </div>
         ))}

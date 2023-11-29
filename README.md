@@ -3,9 +3,11 @@
 ## Link to Deployed Website
 - Click [here]() to view the deployed website.
 ## Description/Overview
--
+- The purpose of this application is t build a website that showcases my portfolio while also using React. There are different tabs to view the About Me, Contact Me, My Projects, and Resume for potential employers or anyone learning react that wants to make a similar application can view. 
 ## Challenges and Successes
--
+- One challenge I faced was with my package.json, I had a few errors that I had to fix which was difficult because I couldn't view any of my code until I fixed it. I fixed the code by referencing the past modules we did in class and deleting and reinstalling the node and packag-lock.json files. 
+- This challenge was a success because it was really fun and exciting to build an app using react and being able to have creative freedom with the design. 
+- This application also helped me to understand React better and learn more about how components work and continue to practice my JavaScript skills. 
 ## Technologies Used
 - React
 - JS
@@ -19,8 +21,5 @@
 - Run `npm start` to start the application
 - View the application in your browser
 ## Credits
+- Formspree, formspree.io/forms/xwkddnnv/integration. Accessed 28 Nov. 2023. 
 - Previous Modules from Unversity of Denver Bootcamp
-
-
-
-titles About Me, Portfolio, Contact, and Resume, and the title corresponding to the current section is highlighted

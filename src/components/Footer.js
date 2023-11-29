@@ -7,7 +7,7 @@ function Footer() {
   return (
     <footer className="footer">
       <div className="content has-text-centered">
-        <p>
+        <div>
           <strong>Portfolio</strong>
           <div>
           <hr />
@@ -26,7 +26,7 @@ function Footer() {
             PlaceHolder
           </a>
       </div>
-        </p>
+        </div>
       </div>
     </footer>
   );

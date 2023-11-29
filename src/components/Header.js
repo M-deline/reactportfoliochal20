@@ -1,7 +1,7 @@
 // WHEN I view the header
-// THEN I am presented with the developer's name and navigation with titles corresponding to different sections of the portfolio
+// THEN I am presented with the developer's name and Nav with titles corresponding to different sections of the portfolio
 import React, { useState } from 'react';
-import Navigation from "./Navigation";
+import Nav from "./Nav";
 import About from "./About";
 import Contact from "./Contact";
 import Portfolio from "./Portfolio";
@@ -40,7 +40,7 @@ function Header() {
         </div>
       </nav>
       {/* {renderPage(currentPage)} */}
-      <Navigation
+      <Nav
         currentPage={currentPage}
         handlePageChange={handlePageChange}
       />

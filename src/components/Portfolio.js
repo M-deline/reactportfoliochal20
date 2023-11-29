@@ -2,7 +2,6 @@
 // THEN I see titled images of six of the developer’s applications with links to both the deployed applications and the corresponding GitHub repository
 
 import React from "react";
-import Project from "./Project";
 
 const projects = [
   {
@@ -55,7 +54,16 @@ function Portfolio() {
       <p className="content is-medium">Portfolio</p>
       <hr />
 
-      <Project projects={projects} />
+      {projects.map((project) => (
+
+        <div key={project.id}>
+          <h3>{project.title}</h3>
+          <p>{project.description}</p>
+          <a href={project.repo} target="_blank" rel="noreferrer">
+            <h4>View My Repo</h4>
+          </a>
+        </div>
+        ))}
     </div>
   );
 }

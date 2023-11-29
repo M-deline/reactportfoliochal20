@@ -8,9 +8,6 @@ function Resume() {
   return (
     <div className="columns">
       <div className="column">
-        {/* <h4>My Resume</h4>
-        <hr /> */}
-
         <a
           className="button is-primary"
           href={"placeholder"} // link to resume}

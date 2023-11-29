@@ -9,11 +9,12 @@ function Footer() {
       <div className="content has-text-centered">
         <p>
           <strong>Portfolio</strong>
-          <a href="https://github.com/M-deline" target="_blank" rel="noreferrer">
-            GitHub
-          </a>
-          .
+          <div>
           <hr />
+          <a href="https://github.com/M-deline" target="_blank" rel="noreferrer">
+            GitHub 
+          </a>{" "}
+          |{" "}{" "}
           <a
             href="https://www.linkedin.com/in/madeline-kovanda-22399627b/"
             target="_blank" rel="noreferrer"
@@ -24,6 +25,7 @@ function Footer() {
           <a href="placeholder" target="_blank" rel="noreferrer">
             PlaceHolder
           </a>
+      </div>
         </p>
       </div>
     </footer>

@@ -27,3 +27,4 @@
 - koblizeek. “Placeholder Images – Browse 84,544 Stock Photos, Vectors, and Video.” Adobe Stock, stock.adobe.com/search?k=placeholder&amp;asset_id=248426448. Accessed 29 Nov. 2023. 
 - Previous Modules from Unversity of Denver Bootcamp
 - “Raleway.” Google Fonts, Google, fonts.google.com/specimen/Raleway. Accessed 28 Nov. 2023. 
+- Raj, Kira. “10 Simple Navigation Bar Hover Animations.” DEV Community, 29 Apr. 2021, dev.to/kiranrajvjd/10-simple-navigation-bar-hover-animations-1980. 

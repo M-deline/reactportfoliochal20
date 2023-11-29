@@ -46,21 +46,22 @@ const projects = [
     description: "This is a simple app that generates a random password.",
     repo: "https://github.com/M-deline/Secure-Password-Generator",
   },
+  
 ];
 
 function Portfolio() {
   return (
     <div>
-      <p className="content is-medium">Portfolio</p>
+      <h4 className="portfolio">Portfolio</h4>
       <hr />
 
       {projects.map((project) => (
 
         <div key={project.id}>
-          <h3>{project.title}</h3>
-          <p>{project.description}</p>
+          <h3 className="proj-title">{project.title}</h3>
+          <p className="proj-desc">{project.description}</p>
           <a href={project.repo} target="_blank" rel="noreferrer">
-            <h4>View My Repo</h4>
+            <p className="proj-desc">View My Repo</p>
           </a>
         </div>
         ))}

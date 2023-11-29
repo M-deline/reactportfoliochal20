@@ -6,6 +6,7 @@
 - The purpose of this application is t build a website that showcases my portfolio while also using React. There are different tabs to view the About Me, Contact Me, My Projects, and Resume for potential employers or anyone learning react that wants to make a similar application can view. 
 ## Challenges and Successes
 - One challenge I faced was with my package.json, I had a few errors that I had to fix which was difficult because I couldn't view any of my code until I fixed it. I fixed the code by referencing the past modules we did in class and deleting and reinstalling the node and packag-lock.json files. 
+- One other challenge I had was that I made the different tabs and the nav but te I relaized that the code I had written didn't use the current Location properly so I had to go back and chagnge it so that the user could see where the current location is. I then had an issue with the about section showing up on every single tab. I spent awhile on it before I realized that in my header I had rendered that component too. 
 - This challenge was a success because it was really fun and exciting to build an app using react and being able to have creative freedom with the design. 
 - This application also helped me to understand React better and learn more about how components work and continue to practice my JavaScript skills. 
 ## Technologies Used

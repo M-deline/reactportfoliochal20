@@ -7,8 +7,8 @@ import React from "react";
 function Nav(props) {
   const tabs = ["About", "Portfolio", "Contact", "Resume"];
   return (
-    <div className="tab is-centered">
-      <ul className="nav nav-tabs">
+    <div className="cursor">
+      <ul className="cursor">
         {tabs.map((tab) => (
           
           <li

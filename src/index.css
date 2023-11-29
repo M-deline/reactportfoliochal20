@@ -10,10 +10,22 @@ span {
 }
 .header-name {
     font-weight: bold;
-    font-size: x-large;
+    font-size: 45px;
 }
-
+li {
+    display: inline-block;
+    margin: 4%;
+    font-size: 20px;
+    font-weight: bold;
+}
 ul {
   list-style: none;
     text-align: center;
+}
+h4 {
+    font-size: x-large;
+    font-weight: bolder;
+}
+.cursor {
+    cursor:pointer;
 }

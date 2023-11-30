@@ -1,4 +1,7 @@
+import Project from './Project';
 import React from "react";
+
+function Portfolio() {
 
 const projects = [
   {
@@ -45,25 +48,14 @@ const projects = [
   },
   
 ];
-
-function Portfolio() {
   return (
     <div>
       <h4 className="portfolio">Portfolio</h4>
       <hr />
 
       {projects.map((project) => (
-
-        <div key={project.id}>
-          <h3 className="proj-title">{project.title}</h3>
-          <p className="proj-desc">{project.description}</p>
-          <a href={project.repo} target="_blank" rel="noreferrer">
-            <p className="proj-desc">View My Repo</p>
-            <br></br>
-            <br></br>
-          </a>
-        </div>
-        ))}
+        <Project project={project} />
+      ))}
     </div>
   );
 }

@@ -1,7 +1,7 @@
 # React Portfolio
 
 ## Link to Deployed Website
-- Click [here]() to view the deployed website.
+- Click [here](https://main--stupendous-marshmallow-a83956.netlify.app/resume) to view the deployed website.
 ## Description/Overview
 - The purpose of this application is t build a website that showcases my portfolio while also using React. There are different tabs to view the About Me, Contact Me, My Projects, and Resume for potential employers or anyone learning react that wants to make a similar application can view. 
 ## Challenges and Successes

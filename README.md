@@ -1,9 +1,13 @@
 # React Portfolio
 
 ## Link to Deployed Website
-- Click [here](https://main--stupendous-marshmallow-a83956.netlify.app/) to view the deployed website.
+- Click [here](https://main--stupendous-marshmallow-a83956.netlify.app/) to view the deployed website on Netlify.
 ## Description/Overview
 - The purpose of this application is t build a website that showcases my portfolio while also using React. There are different tabs to view the About Me, Contact Me, My Projects, and Resume for potential employers or anyone learning react that wants to make a similar application can view. 
+## Screenshots
+- ![Screenshot of deployed app showing email validation in the Contact Me Section](<readme-images/Screenshot 2023-11-29 at 10.27.52 PM.png>)
+- ![Screenshot of deployed app showing the Resume tab](<readme-images/Screenshot 2023-11-29 at 10.29.58 PM.png>)
+- ![Screenshot of deployed app showing the Portfolio Tab](<readme-images/Screenshot 2023-11-29 at 10.27.30 PM.png>)
 ## Challenges and Successes
 - One challenge I faced was with my package.json, I had a few errors that I had to fix which was difficult because I couldn't view any of my code until I fixed it. I fixed the code by referencing the past modules we did in class and deleting and reinstalling the node and packag-lock.json files. 
 - One other challenge I had was that I made the different tabs and the nav but te I relaized that the code I had written didn't use the current Location properly so I had to go back and chagnge it so that the user could see where the current location is. I then had an issue with the about section showing up on every single tab. I spent awhile on it before I realized that in my header I had rendered that component too. 

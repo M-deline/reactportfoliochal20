@@ -7,7 +7,7 @@ const projects = [
   {
     id: 0,
     title: "Social Network API",
-    description: "This app uses node.js, mongoose, exxpress, and JS to create a social network API where users can post, comment, and react to other people's posts as well as friend another user.", 
+    description: "This app uses node.js, mongoose, express, and JS to create a social network API where users can post, comment, and react to other people's posts as well as friend another user.", 
     repo: "https://github.com/M-deline/chal18socialnetapi",
   },
   {

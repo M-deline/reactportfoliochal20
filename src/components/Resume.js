@@ -5,8 +5,8 @@ function Resume() {
     <div className="columns">
       <div className="column">
         <a
-          className="button is-primary"
-          href={"placeholder"} // link to resume}
+          className="button"
+          href={" https://docs.google.com/document/d/1_Wj0WpyCisNV2B-u3DEtYtzxXffnQPDvitua1-LkVwY/edit?usp=sharing"}
           target="_blank" rel="noreferrer"
         >
           <h4 className="resume-view">Click Here to View My Resume</h4>

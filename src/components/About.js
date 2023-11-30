@@ -9,7 +9,7 @@ function About() {
         <div>
           <p className="about-text">
             <br></br>
-            I am Madeline and I am studying full stack web development in order to become a full time developer. I am almost finished with the FullStack Developer BootCamp from University of Denver. 
+            I am Madeline and I am studying full stack web development in order to become a full time developer. I am almost finished with the FullStack Developer BootCamp from University of Denver. I am hoping to improve my coding abilities and learn as much as I can about coding.
           </p>
           <p className="about-text">
             <br></br>
